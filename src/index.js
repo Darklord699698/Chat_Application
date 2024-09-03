@@ -1,6 +1,6 @@
-//index.js
 import React from "react";
 import ReactDOM  from "react-dom";
-//start
-//just starting wait
+
+import App from './App';
+
 ReactDOM.render(<App/>,document.getElementById('root'));
